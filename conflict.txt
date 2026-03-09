@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-main change
-=======
 branch1 change
->>>>>>> branch1
+My name is Spring. 
